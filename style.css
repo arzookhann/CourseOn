@@ -544,9 +544,9 @@ nav .navigation ul li a:hover {
 }
 
 #footer-end .footer-bottom {
-    background: #010918;
-    width: 100vw;
-    padding: 20px 0;
+    /* background: #010918; */
+    /* width: 100vw; */
+    padding: 20px;
     text-align: center;
 }
 
