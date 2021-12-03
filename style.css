@@ -1301,6 +1301,14 @@ nav .navigation ul li a:hover {
         margin-top: 20px;
         margin-bottom: 20px;
     }
+    
+    #footer-end .footer-bottom p {
+        font-size: 8px;
+    }
+
+    #footer-end .footer-bottom p span {
+        font-size: 8px;
+    }
 
 
     /* About */
