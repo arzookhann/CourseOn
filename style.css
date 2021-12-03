@@ -624,7 +624,7 @@ nav .navigation ul li a:hover {
     color: #f5efef;
     text-transform: uppercase;
     opacity: .4;
-    font-weight: 200;
+    font-weight: 300;
 }
 
 
@@ -1303,12 +1303,12 @@ nav .navigation ul li a:hover {
     }
     
     #footer-end .footer-bottom p {
-        font-size: 8px;
+        font-size: 10px;
     }
 
     #footer-end .footer-bottom p span {
-        font-size: 15px;
-        font-weight: 250;
+        font-size: 10px;
+        font-weight: 300;
     }
 
 
